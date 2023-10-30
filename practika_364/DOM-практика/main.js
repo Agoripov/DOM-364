@@ -146,8 +146,8 @@
 //         const result = document.getElementById('result');
 
 //         checkButton.addEventListener('click', function() {
-//             const word = wordInput.value.toLowerCase(); // Приводим к нижнему регистру для учета регистра
-//             const reversedWord = word.split('').reverse().join(''); // Переворачиваем слово
+//             const word = wordInput.value.toLowerCase();
+//             const reversedWord = word.split('').reverse().join('');
             
 //             if (word === reversedWord) {
 //                 result.textContent = 'одинаково.';
