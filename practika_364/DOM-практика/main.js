@@ -232,7 +232,7 @@
 //             const dateParts = inputDate.split('.');
 //             if (dateParts.length === 3) {
 //                 const day = parseInt(dateParts[0], 10);
-//                 const month = parseInt(dateParts[1], 10) - 1; // Месяцы в JavaScript начинаются с 0 (0 = Январь, 1 = Февраль и т.д.)
+//                 const month = parseInt(dateParts[1], 10) - 1;
 //                 const year = parseInt(dateParts[2], 10);
 
 //                 const daysOfWeek = ['Воскресенье', 'Понедельник', 'Вторник', 'Среда', 'Четверг', 'Пятница', 'Суббота'];
